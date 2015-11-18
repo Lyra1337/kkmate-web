@@ -3,7 +3,4 @@
 /// <reference path="../libraries/angular-loading-bar/loading-bar.js" />
 /// <reference path="app.js" />
 /// <reference path="controllers/login-controller.js" />
-/// <reference path="controllers/table-controller.js" />
-/// <reference path="services/calibration-service.js" />
-/// <reference path="services/calibration-sheet-service.js" />
 /// <reference path="services/data-context-service.js" />
